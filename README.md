@@ -1,2 +1,3 @@
 # hello-world
-My e-commerce website aims to market the various items of a super-market called HappyMarket
+Hi everyone !
+My name's Imane and I am passionate by coding. 
